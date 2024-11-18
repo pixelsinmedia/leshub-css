@@ -1,0 +1,151 @@
+/* Figma Link: https://www.figma.com/design/mUEV4ZU7kr5LZJyWJ3WW6I/Les-Hub---concept-outline?node-id=366-1150&t=lBXjwU8jp1L2FAzZ-4 */
+
+/* Gradient that is primary background */
+background: linear-gradient(132.33deg, #D24074 -0.67%, #6518B4 102.54%);
+
+/* Gradient that is behind the vertically scrolling pictures */
+background: linear-gradient(178.16deg, #F83BCB 1.56%, #FFD900 122.67%);
+
+
+/* Figma link: https://www.figma.com/design/mUEV4ZU7kr5LZJyWJ3WW6I/Les-Hub---concept-outline?node-id=368-2555&t=pMXm374Xej0QOvjV-4 */
+/* Gradient - magenta to neon blue */
+background: linear-gradient(180deg, #BB419E 50%, #7A4DD4 146.58%, #5055F8 228.86%);
+
+
+/* Google Font: https://fonts.google.com/specimen/Frank+Ruhl+Libre */
+
+/* H1 */
+font-family: 'Frank Ruhl Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 62px;
+line-height: 72px;
+
+/* H2 */
+font-family: "Frank Ruhl Libre";
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 54px; /* 112.5% */
+
+/* H3 */
+font-family: "Frank Ruhl Libre";
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: 42px; /* 123.529% */
+
+/* Subtitle 1 */
+font-family: "Frank Ruhl Libre";
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px; /* 114.286% */
+
+/* Subtitle 2 */
+font-family: "Frank Ruhl Libre";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 120% */
+
+/* Title-ns */
+font-family: Helvetica;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px; /* 125% */
+
+
+/* Body 1 */
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 122.222% */
+
+/* Body 1 - light */
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 22px; /* 122.222% */
+
+/* Bod 1 - Italic */
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 122.222% */
+
+/* Body 1 - Bold */
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; /* 122.222% */
+
+/* Body 2 */
+font-family: Helvetica;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+
+/* Body 2 - Light */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 24px; /* 150% */
+
+/* Body 2 - Italic */
+font-family: Roboto;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px; /* 150% */
+
+/* Body 2 - Bold */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 150% */
+
+
+
+/* Caption */
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+
+/* Caption - italic */
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 114.286% */
+
+/* Caption - Light */
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 16px; /* 114.286% */
+
+/* Caption - italic */
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 114.286% */
+
+/* Caption - italic */
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 114.286% */
